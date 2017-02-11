@@ -1,0 +1,7 @@
+{
+  "name": "iterm-title",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Sets the iTerm window/tab title",
+  "repository": "odynvolk/iterm-title"
+}
